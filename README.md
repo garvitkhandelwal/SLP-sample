@@ -16,7 +16,7 @@
 * Open **index.html**. This is the main page through which user will interact. It contains 2 buttons which link to 2 other web pages. This makes the **front end**.
 #### **Back end**
 * Open your terminal, cd into the **js** folder and type `node server.js`.
-* This will get the server up and running. It won't detect changes automatically. To make it do so, instal nodeman on your machine and instead of typing `node server.js`, type `nodeman server.js`.
+* This will get the server up and running. It won't detect changes automatically. To make it do so, install nodemon on your machine and instead of typing `node server.js`, type `nodemon server.js`.
 * This server is connected to **mongo database**. 
 * To insert a new product into the database, you can either use **postman app** or do it directly using the **mongo commands**.
 * To learn mongodb commands, you can visit [this website](https://docs.mongodb.com/manual/reference/mongo-shell/).
